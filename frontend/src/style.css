@@ -1,0 +1,28 @@
+.event-card{
+    width  :70%;
+    height : 200px;
+    margin :20px auto;
+    border:2px solid silver;
+    padding:25px;
+    border-radius: 10px;
+}
+
+.event-card h2{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.event-card p{
+    color:grey;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+.event-desc{
+    text-align: center;
+}
+
+.icons{
+    margin-top: 80px;
+}
